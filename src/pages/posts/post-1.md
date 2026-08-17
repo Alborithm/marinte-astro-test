@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
 pubDate: 2026-08-12
 description: 'This is the first post of my new Astro blog.'
@@ -40,7 +41,7 @@ Mover la de color actual a planta alta
 ## Planta Alta
 - Blanco y negro 🟢
 - Color 🟡
-- Escaner 🔴
+- Escaner 🟡
 
 ## Metrología
 - Blanco y negro 🟢
